@@ -1,6 +1,7 @@
 {
-  "data": [
-    {"id":1,"first_name":"Catherin","last_name":"Yesipov"},
+  "data": 
+  [
+{"id":1,"first_name":"Catherin","last_name":"Yesipov"},
 {"id":2,"first_name":"Joannes","last_name":"Kirkpatrick"},
 {"id":3,"first_name":"Lorilee","last_name":"Pepys"},
 {"id":4,"first_name":"Nickolas","last_name":"Tampion"},
